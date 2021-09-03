@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/SantoTomasMaqueta/static/css/main.b2de1c39.chunk.css",
+    "main.js": "/SantoTomasMaqueta/static/js/main.b8fe8d81.chunk.js",
+    "main.js.map": "/SantoTomasMaqueta/static/js/main.b8fe8d81.chunk.js.map",
+    "runtime-main.js": "/SantoTomasMaqueta/static/js/runtime-main.daf54d9b.js",
+    "runtime-main.js.map": "/SantoTomasMaqueta/static/js/runtime-main.daf54d9b.js.map",
+    "static/js/2.84d63f1f.chunk.js": "/SantoTomasMaqueta/static/js/2.84d63f1f.chunk.js",
+    "static/js/2.84d63f1f.chunk.js.map": "/SantoTomasMaqueta/static/js/2.84d63f1f.chunk.js.map",
+    "index.html": "/SantoTomasMaqueta/index.html",
+    "static/css/main.b2de1c39.chunk.css.map": "/SantoTomasMaqueta/static/css/main.b2de1c39.chunk.css.map",
+    "static/js/2.84d63f1f.chunk.js.LICENSE.txt": "/SantoTomasMaqueta/static/js/2.84d63f1f.chunk.js.LICENSE.txt",
+    "static/media/1.a7767fdb.jpg": "/SantoTomasMaqueta/static/media/1.a7767fdb.jpg",
+    "static/media/2.167e34f8.jpg": "/SantoTomasMaqueta/static/media/2.167e34f8.jpg",
+    "static/media/3.38deeb75.jpg": "/SantoTomasMaqueta/static/media/3.38deeb75.jpg",
+    "static/media/4.34da4420.jpg": "/SantoTomasMaqueta/static/media/4.34da4420.jpg",
+    "static/media/5.829ca4ae.jpg": "/SantoTomasMaqueta/static/media/5.829ca4ae.jpg",
+    "static/media/apple-pie-3723444_1920.057a9fa1.jpg": "/SantoTomasMaqueta/static/media/apple-pie-3723444_1920.057a9fa1.jpg",
+    "static/media/index.css": "/SantoTomasMaqueta/static/media/logotipo-circular-de-facebook.d12ae81f.png",
+    "static/media/mancha_slider.4da465c4.png": "/SantoTomasMaqueta/static/media/mancha_slider.4da465c4.png",
+    "static/media/marca.27dc28f5.png": "/SantoTomasMaqueta/static/media/marca.27dc28f5.png",
+    "static/media/marca_st.5f27c2e6.png": "/SantoTomasMaqueta/static/media/marca_st.5f27c2e6.png",
+    "static/media/slider.7ddde130.png": "/SantoTomasMaqueta/static/media/slider.7ddde130.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daf54d9b.js",
+    "static/js/2.84d63f1f.chunk.js",
+    "static/css/main.b2de1c39.chunk.css",
+    "static/js/main.b8fe8d81.chunk.js"
+  ]
+}
